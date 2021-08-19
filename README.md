@@ -18,11 +18,11 @@
 <a href="https://telegram.me/Anjana_Ma" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="anjana.madu" height="30" width="30" /></a>
 <a href="https://instagram.com/madu_anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madu_anjana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucwodpetjnainvid2ussr7va" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwodpetjnainvid2ussr7va" height="30" width="40" /></a>
-<a href="https://fb.com/anjana.madu.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana.madu.54" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana.madu.54" height="30" width="40" /></a>
 <br>
 
 ## 🎵 Now playing
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 ## 💰 Support Me
 <a href="https://ko-fi.com/anjanamadu" class="padded"><img height="40" style="border:0px;height:40px;" align="left" alt="anjana" src="https://az743702.vo.msecnd.net/cdn/kofi3.png" /></a>
