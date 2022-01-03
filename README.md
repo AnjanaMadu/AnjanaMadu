@@ -26,7 +26,7 @@
 [![Metrics](https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg)](https://github.com/AnjanaMadu)
 
 ## 🔗 Connect with me
-[![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png)](tg://resolve?domain=Anjana_Ma)
+[![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png)](https://telegram.me/Anjana_Ma)
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/anjana.madu)
 [![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://www.twitter.com/Anjana__Madu)
 [![Youtube](https://img.icons8.com/fluency/48/000000/youtube-play.png)](https://youtube.com/c/AnjanaMaduu)
