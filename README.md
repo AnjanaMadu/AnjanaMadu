@@ -1,10 +1,10 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Anjana](https://github.com/AnjanaMadu) | [![Profile views](https://komarev.com/ghpvc/?username=anjanama&label=Profile%20Views&color=red)](https://github.com/AnjanaMadu)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Anjana](https://github.com/AnjanaMadu) | [![Profile views](https://komarev.com/ghpvc/?username=anjanama&label=Profile%20Views&color=red)](https://www.anjanamadu.net)
    
 - 🔭 I’m currently working on [**Harp Tech.**](github.com/harptechorg)
 - 🌱 I’m currently learning **Python.**
 - 💬 Ask me about **anything, I am happy to help.**
-- 👨‍💻 All of my projects are available at *www.anjanamadu.com*
-- 📫 How to reach me **hello@anjanama.me**
+- 👨‍💻 All of my projects are available at *www.anjanamadu.net*
+- 📫 How to reach me **hello@anjanamadu.net**
 - ⚡ Fun fact **still Student.**
 
 ## 🛠️ Languages and tools
@@ -26,12 +26,10 @@
 [![Metrics](https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg)](https://github.com/AnjanaMadu)
 
 ## 🔗 Connect with me
-<!-- png icons from https://iconscout.com/ -->
-<a href="https://telegram.me/Anjana_Ma" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="anjana.madu" height="30" width="30" /></a>
-<a href="https://instagram.com/madu_anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madu_anjana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/AnjanaMaduu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwodpetjnainvid2ussr7va" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana.madu.54" height="30" width="40" /></a>
-<br>
+[![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png)](tg://resolve?domain=Anjana_Ma)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/anjana.madu)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://www.twitter.com/Anjana__Madu)
+[![Youtube](https://img.icons8.com/fluency/48/000000/youtube-play.png)](https://youtube.com/c/AnjanaMaduu)
 
 ## 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
