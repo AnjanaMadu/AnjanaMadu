@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Anjana](https://github.com/AnjanaMadu)
    
 - 🔭 I’m currently working on [**Harp Tech.**](github.com/harptechorg)
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Go.**
 - 💬 Ask me about **anything, I am happy to help.**
 - 👨‍💻 All of my projects are available at *www.anjanamadu.net*
 - 📫 How to reach me **hello@anjanamadu.net**
