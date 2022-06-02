@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Anjana](https://github.com/AnjanaMadu)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Anjana](https://github.com/AnjanaMadu)
    
 - 🔭 I’m currently working on [**Harp Tech.**](github.com/harptechorg)
 - 🌱 I’m currently learning **Go.**
