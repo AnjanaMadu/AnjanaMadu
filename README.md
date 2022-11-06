@@ -36,10 +36,10 @@
 #### Operating systems
 <a href="https://www.microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/windows-10.png"/></a>
 <a href="https://ubuntu.com" target="_blank"><img src="https://img.icons8.com/color/48/null/ubuntu--v1.png"/></a>
-<a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
+<a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
 
 ## 📊 Stats
-[![Metrics][https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg]]
+<img src="https://raw.githubusercontent.com/AnjanaMadu/AnjanaMadu/main/github-metrics.svg" alt="Metrics">
 
 ## 🔗 Connect with me
 <a href="https://telegram.me/Anjana_Ma" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
