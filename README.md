@@ -8,22 +8,38 @@
 - ⚡ Fun fact **still Student.**
 
 ## 🛠️ Languages and tools
-<a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
-<a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></a>
-<a href="https://www.docker.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/docker.png"/></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
-<a href="https://heroku.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
-<a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
-<a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-<a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+### Programming languages
+<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
+<a href="https://go.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/golang.png"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/fluency/48/null/node-js.png"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://img.icons8.com/offices/48/null/php-logo.png"/></a>
+
+### Web development
+<a target="_blank"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
+<a target="_blank"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
+<a href="https://www.javascript.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
+<a href="https://www.nginx.com" target="_blank"><img src="https://img.icons8.com/color/48/null/nginx.png"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
+<a href="https://tailwindcss.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
+
+### Databases
+<a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/null/postgreesql.png"/></a>
+<a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/null/redis.png"/></a>
+
+#### Tools and other
+<a href="https://www.docker.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/docker.png"/></a>
+<a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/fluency/48/null/arduino.png"/></a>
+<a href="https://www.oracle.com" target="_blank"><img src="https://img.icons8.com/color/48/null/oracle-logo.png"/></a>
+
+#### Operating systems
+<a href="https://www.microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/windows-10.png"/></a>
+<a href="https://ubuntu.com" target="_blank"><img src="https://img.icons8.com/color/48/null/ubuntu--v1.png"/></a>
+<a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
 
 ## 📊 Stats
-<a href="https://github.com/AnjanaMadu"><img src="https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg" alt="Metrics"></a>
+[![Metrics][https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg]]
 
 ## 🔗 Connect with me
 <a href="https://telegram.me/Anjana_Ma" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
@@ -32,7 +48,7 @@
 <a href="https://youtube.com/c/AnjanaMaduu" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="Youtube"></a>
 
 ## 🎵 Now playing
-<a href="https://spotify.com/" target="_blank"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
+<a href="https://spotify.com/" target="_blank" alt="Spotify now playing"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
 
 ## 💰 Support Me
-<a href="https://ko-fi.com/anjanamadu" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
+<a href="https://ko-fi.com/anjanamadu" target="_blank" alt="KoFi"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
