@@ -9,18 +9,20 @@
 
 ## 🛠️ Languages and tools
 ### Programming languages
-<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
-<a href="https://go.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/golang.png"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/fluency/48/null/node-js.png"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://img.icons8.com/offices/48/null/php-logo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/null/golang.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/node-js.png"/></a>
+<a href="#"><img src="https://img.icons8.com/offices/48/null/php-logo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/></a>
 
 ### Web development
-<a target="_blank"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
-<a target="_blank"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
-<a href="https://www.javascript.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
-<a href="https://www.nginx.com" target="_blank"><img src="https://img.icons8.com/color/48/null/nginx.png"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
-<a href="https://tailwindcss.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
+<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/null/nginx.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
 
 ### Databases
 <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a>
