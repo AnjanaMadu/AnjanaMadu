@@ -17,11 +17,16 @@
 <a href="#"><img src="https://img.icons8.com/offices/48/null/php-logo.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/flutter.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/dart.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/></a>
 
 ### Web development
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
 <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/vue-js.png"/></a>
+<a href="#"><img src="https://img.icons8.com/doodle/48/svetle.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/null/nginx.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
@@ -32,13 +37,9 @@
 <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/null/postgreesql.png"/></a>
 <a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/null/redis.png"/></a>
 
-#### Tools and other
-<a href="https://www.docker.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/docker.png"/></a>
-<a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/fluency/48/null/arduino.png"/></a>
-<a href="https://www.oracle.com" target="_blank"><img src="https://img.icons8.com/color/48/null/oracle-logo.png"/></a>
-
 #### Operating systems
 <a href="https://www.microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/windows-10.png"/></a>
+<a href="https://android.google.com" target="_blank"><img src="https://img.icons8.com/fluency/48/android-os.png" /></a>
 <a href="https://ubuntu.com" target="_blank"><img src="https://img.icons8.com/color/48/null/ubuntu--v1.png"/></a>
 <a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
 
