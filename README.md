@@ -2,8 +2,8 @@
 
 
    
-- 🔭 I’m currently working on [**Harp Tech.**](github.com/harptechorg)
-- 🌱 I’m currently learning **Go.**
+- 🔭 I’m currently working on ¯\\\_(ツ)\_/¯
+- 🌱 I’m currently learning **everything.**
 - 💬 Ask me about **anything, I am happy to help.**
 - 👨‍💻 All of my projects are available at *www.anjanamadu.net*
 - 📫 How to reach me **hello@anjanamadu.net**
