@@ -1,7 +1,6 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Anjana](https://github.com/AnjanaMadu) <a href="https://www.buymeacoffee.com/anjanamadu" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="30"></a>
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Anjana](https://github.com/AnjanaMadu) 
 
 
-   
 - 🔭 I’m currently working on ¯\\\_(ツ)\_/¯
 - 🌱 I’m currently learning **everything.**
 - 💬 Ask me about **anything, I am happy to help.**
