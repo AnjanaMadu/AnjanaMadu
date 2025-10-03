@@ -71,7 +71,7 @@
 
 ### 🎵 Now Playing on Spotify
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31cbfgutsneduhj663oobnz4o2de)
+[![Spotify](https://novatorem-gamma-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31cbfgutsneduhj663oobnz4o2de)
 
 ---
 
