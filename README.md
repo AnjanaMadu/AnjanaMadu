@@ -13,6 +13,8 @@
 
 <div align='center'>
 	<img src="https://count.getloli.com/get/@anjanamadu?theme=moebooru" alt="Counter" />
+	<br><br>
+	<a href="https://open.spotify.com/user/31cbfgutsneduhj663oobnz4o2de"><img src="https://novatorem-gamma-eight.vercel.app/api/spotify" alt="Spotify" /></a>
 </div>
 
 ---
@@ -66,12 +68,6 @@
 
 ### 📈 GitHub Stats
 <img src="https://raw.githubusercontent.com/AnjanaMadu/AnjanaMadu/main/github-metrics.svg" alt="Metrics">
-
----
-
-### 🎵 Now Playing on Spotify
-
-[![Spotify](https://novatorem-gamma-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31cbfgutsneduhj663oobnz4o2de)
 
 ---
 
